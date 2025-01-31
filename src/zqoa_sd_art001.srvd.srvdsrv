@@ -1,0 +1,4 @@
+@EndUserText.label: 'Exponer cds'
+define service ZQOA_SD_ART001 {
+  expose ZQOA_CDS_ART_001;
+}
